@@ -9,4 +9,13 @@
 4. check branch using command:- git branch
 5. git add the changes to commit using command:-  git add filenames
 6. commit the added changes using command:-  git commit -m "commit message"
-7. push the commit using command:- git push 
+7. push the commit using command:- git push
+
+============================================================================
+8. delete a branch command:- git branch -d branchname
+9. create a new local branch command:- git checkout -b newbranchname
+10.switch to another branch command:- git checkout branchname
+
+============================================================================
+
+ 
