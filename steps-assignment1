@@ -1,0 +1,12 @@
+1. create a repo in the git hub ui.
+	a.click on new repo
+	b.enter repo name.
+	c.you can select README file.
+	d.click on create.
+2. clone the repo in local using below command
+	git clone 'repourl'
+3. command to check the status:- git status 
+4. check branch using command:- git branch
+5. git add the changes to commit using command:-  git add filenames
+6. commit the added changes using command:-  git commit -m "commit message"
+7. push the commit using command:- git push 
